@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="computador">Computador</string>
+    <string name="codigo">Codigo</string>
+    <string name="smartphone">Smartphone</string>
+    <string name="op2">Mecánica</string>
+    <string name="si">Si</string>
+    <string name="app_name">form</string>
+    <string name="no">No</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="programa">Progama</string>
+    <string name="op1">Sistemas</string>
+    <string name="internet">Internet</string>
+    <string name="op3">Industrial</string>
+    <string name="op4">Mecatrónica</string>
+    <string name="guardar">Guardar</string>
+
+</resources>
